@@ -21,3 +21,12 @@ alias -s log="less -MN"
 
 alias -s html=open 
 
+
+-------------
+
+
+## References 
+
+http://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692
+
+http://www.youtube.com/watch?v=E2WXc3qAg8A

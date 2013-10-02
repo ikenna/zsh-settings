@@ -30,6 +30,16 @@ alias tree3="tree -L 3"
 alias tree4="tree -L 4"
 
 
+alias mkdir='mkdir -p'
+
+alias h='history'
+
+alias hg='history | grep '
+
+alias ~="cd ~"
+
+alias -- -="cd -"
+
 -------------
 
 

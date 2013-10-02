@@ -14,13 +14,19 @@ https://github.com/robbyrussell/oh-my-zsh
 ### Set Aliases
 
 alias -s txt=vim
+
 alias -s rb=vim
+
 alias -s log="less -MN"
+
 alias -s html=open 
 
 alias tree1="tree -L 1"
+
 alias tree2="tree -L 2"
+
 alias tree3="tree -L 3"
+
 alias tree4="tree -L 4"
 
 

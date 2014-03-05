@@ -45,7 +45,9 @@ alias -- -="cd -"
 export SBT_OPTS="-Xmx2G -XX:+UseConcMarkSweepGC -XX:+CMSClassUnloadingEnabled -XX:MaxPermSize=2G -Xss2M  -Duser.timezone=GMT"
 
 ### Zsh specific settings
+
 DISABLE_CORRECTION="true"
+
 ZSH_THEME="jonathan"
 
 -------------
